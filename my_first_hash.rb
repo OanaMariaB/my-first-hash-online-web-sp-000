@@ -1,6 +1,6 @@
 def my_hash
   my_hash = {
-    "favourite fruit" => "strawberry"
+    "favourite fruit" => "strawberry",
     "favourite perfume" => "Dior"
   }
 end
