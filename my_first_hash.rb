@@ -3,7 +3,6 @@ def my_hash
     "favourite fruit" => "strawberry"
     "favourite perfume" => "Dior"
   }
-
 end
 
 
